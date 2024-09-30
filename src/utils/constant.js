@@ -29,13 +29,13 @@ export const dashboardData = {
 
   export const team = [
     {
-      "name": "Aryan",
+      "name": "Ayan",
       
       "profileImage": "https://i.pinimg.com/originals/6d/5f/c6/6d5fc60bae3dc6139eefa31af206596f.jpg",
       "dates": generateDates()
     },
     {
-      "name": "Aman",
+      "name": "Anu",
   
       "profileImage": "https://cdn.openart.ai/published/S7jOXsdB3tMDFy6JNfak/-nmXB1M1_vvaY_1024.webp",
       "dates": generateDates()
@@ -59,7 +59,7 @@ export const dashboardData = {
       "dates": generateDates()
     },
     {
-      "name": "Rajesh",
+      "name": "Raj",
   
       "profileImage": "https://png.pngtree.com/thumb_back/fh260/background/20230527/pngtree-in-the-style-of-dark-turquoise-and-light-navy-image_2698692.jpg",
       "dates": generateDates()
@@ -108,85 +108,7 @@ export const dashboardData = {
 // workingHistoryData.js
 
 export const workingHistoryData = [
-  {
-    date: '26/9/23', // today's date
-    arrivalTime: '9:15 AM',
-    departureTime: 'Still in office',
-    effectiveTime: '5:45',
-    days: 50
-  },
-  {
-    date: '25/9/23',
-    arrivalTime: '8:50 AM',
-    departureTime: '6:00 PM',
-    effectiveTime: '9:10',
-  },
-  {
-    date: '24/9/23',
-    arrivalTime: '10:10 AM',
-    departureTime: '5:45 PM',
-    effectiveTime: '7:35',
-  },
-  {
-    date: '23/9/23',
-    arrivalTime: '12:30 PM',
-    departureTime: '3:45 PM',
-    effectiveTime: '3:15',
-  },
-  {
-    date: '22/9/23',
-    arrivalTime: 'absent',
-    departureTime: '-',
-    effectiveTime: '-',
-  },
-  {
-    date: '21/9/23',
-    arrivalTime: '9:00 AM',
-    departureTime: '5:00 PM',
-    effectiveTime: '8:00',
-  },
-  {
-    date: '20/9/23',
-    arrivalTime: '8:45 AM',
-    departureTime: '5:30 PM',
-    effectiveTime: '8:45',
-  },
-  {
-    date: '19/9/23',
-    arrivalTime: '9:30 AM',
-    departureTime: '4:00 PM',
-    effectiveTime: '6:30',
-  },
-  {
-    date: '18/9/23',
-    arrivalTime: '10:00 AM',
-    departureTime: '4:30 PM',
-    effectiveTime: '6:30',
-  },
-  {
-    date: '17/9/23',
-    arrivalTime: 'holiday',
-    departureTime: '-',
-    effectiveTime: '-',
-  },
-  {
-    date: '16/9/23',
-    arrivalTime: 'holiday',
-    departureTime: '-',
-    effectiveTime: '-',
-  },
-  {
-    date: '15/9/23',
-    arrivalTime: '9:15 AM',
-    departureTime: '6:00 PM',
-    effectiveTime: '8:45',
-  },
-  {
-    date: '14/9/23',
-    arrivalTime: 'absent',
-    departureTime: '-',
-    effectiveTime: '-',
-  },
+ 
   {
     date: '13/9/23',
     arrivalTime: 'leave',

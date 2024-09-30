@@ -53,7 +53,7 @@ const Dashboard = () => {
         
         <AttendanceSummary/>
       </div>
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 mt-4">
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-2 mt-3">
         <MyTeam/>
         <WorkingHistory/>
       </div>
